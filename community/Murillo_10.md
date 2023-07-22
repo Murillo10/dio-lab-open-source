@@ -14,3 +14,10 @@ Estou iniciando na área de Data Science, sou muito curioso e autodidata com uma
 - **Banco de Dados:** MySQL, PostgreSQL
 - **Controle de Versão:** Git, GitHub
 - **Metodologias de Desenvolvimento:** Agile, Scrum
+
+  ## Contate-me
+
+  e-mail: muriloconsultor10@gmail.com<br>
+  linkedin.com/in/murilo-consultor-tax/<br>
+  
+  
